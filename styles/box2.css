@@ -1,0 +1,9 @@
+.box2{
+    height: 480px;
+}
+
+.box2pic{
+    object-fit: cover;
+    height:480px;
+    width:100%;
+}

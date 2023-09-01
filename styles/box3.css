@@ -1,0 +1,10 @@
+.box3 {
+    height: 720px;
+    
+}
+
+.box3pic{
+    object-fit: cover;
+    height:720px;
+    width: 100%;
+}

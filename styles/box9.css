@@ -1,0 +1,56 @@
+.box9 {
+    height: 330px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.box91{
+    height: 220px;
+    flex:2;
+    background-color: rgb(137, 181, 219);
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.box92{
+    height: 220px;
+    flex: 3;
+
+    padding-left: 30px;
+}
+
+.box93{
+    height: 220px;
+    flex: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.text91{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(65, 63, 63);
+    margin-top: 0;
+}
+
+.text92{
+    color: rgb(84, 82, 82);
+    font-size: 16px;
+}
+
+.text93{
+    color: rgb(84, 82, 82);
+    font-size: 16px;
+}
+
+.text93:hover{
+    color:rgb(16, 137, 236);
+    font-weight: bold;
+    cursor: pointer;
+}
